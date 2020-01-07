@@ -1,0 +1,45 @@
+body {
+    background-color: tan;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: right;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 3rem;
+    font-variant: small-caps;
+    color: green;
+}
+
+p {
+    line-height: 200%;
+    text-indent: 3em;
+}
+
+strong {
+    color: blue;
+}
+
+em {
+    background-color: yellow;
+    color:black;
+}
+
+span {
+    color: red;
+    font-family: "Comic Sans", cursive;
+}
+
+time {
+    color: red;
+}
+
+address {
+    font-size: 0.8rem;
+    text-align: center;
+}
